@@ -2,4 +2,4 @@
 
 ### Websites vs. Web Applications
 
-Websites
+Websites tend to be informational and are intended to be viewed or browsed, whereas web applications are more interactive.
