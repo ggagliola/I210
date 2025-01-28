@@ -1,3 +1,0 @@
-# Garrett Gagliola
-
-Wow
